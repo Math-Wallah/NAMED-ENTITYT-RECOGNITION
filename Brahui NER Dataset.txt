@@ -1,0 +1,2292 @@
+کنا	0
+موبایل	Name of thing
+ارادے	0
+نصیر	Name of person 
+کنا	0
+ایلم 	Noun
+اے	0 
+اسد 	Name of person
+باغبانہ	Name of place
+ٹٰی 	0
+اے	0
+سراج	Name of person 
+زندہ 	0
+اے	0
+نور	Name of person 
+چمروک 	Name of place 
+ا ٹے	0
+ای	0
+1990 	date
+ٹی 	0
+ودی	0
+مسوٹ	0
+نی	0
+ڈاکڑ	Designation 
+سے	0
+اوس	0
+نا 	0
+گاڑی	Name of thing
+ارادے	0 
+کنا 	0 
+موٹرسایکل	Name of thing
+اف	0
+ای	0
+لیکچرار	Designation 
+اوٹ	0 
+نی 	0 
+مفتی 	Designation 
+اوس	0 
+شبیر	Name of person 
+چا	Name of thing
+کرے	0
+جاوید	Name of person 
+ارغ	0
+کہ	0
+ہنا	0
+اسلم	Name of person 
+دادے	0
+ماما	Name of person 
+کنا	0
+سنگت 	0
+اے	0
+علی	Name of person 
+باز 	0
+مور	0
+اے	0 
+امجد	Name of person 
+کراچی 	Location 
+ٹی 	0 
+اے	0
+ای 	0
+2023	Date 
+ٹی 	0
+قلات 	Location 
+ٹی 	0
+مروٹ	0
+کنا	0
+لمہ	Name of person 
+ارادے	0
+ای	0
+دیر	Noun
+کونیوہ	0 
+ای 	Noun
+بس 	0
+ٹی 	0
+کاوہ	0
+ای 	Noun
+چا	Noun
+کیوہ	0
+دا	0
+کنا	0
+ایڑ	Noun
+ایے	0
+خیُس	noun
+کروکا	0
+ڈبل	noun
+روتی	noun
+او	
+مُربہ	noun
+خواوہ	0
+دا	0
+باز	0
+حنین	noun
+(سور	noun
+،خرین	noun
+،بے	0
+پُر	0
+،بے	0
+مزہ	0
+اے	0
+دا	0
+سک	0
+کافی	0
+ہتہ	0
+خواجہ	noun
+دا	0
+سا	0
+اتروہ	0
+داسو	0
+پدین	noun
+اے	0
+خدمت	0
+گار	0
+ءِ	0
+توار	noun
+کہ	0
+دا	0
+پنجہ	noun
+ساف	Noun
+اَف	noun
+مہرابی	noun
+کیرے	0
+دادے	0
+بدل	Name of person 
+کہ	0
+ای	0
+دادے	0
+خواہنتنُٹ	0
+ای	0
+تینا	0
+پاروکے	0
+بَدل	Name of person 
+کننگ	0
+کیوہ	0
+بہا	0
+کاغذ	noun
+ءِ	0
+ایتے	0
+دانا	0
+تہٹی	noun
+خدمت	0
+کا	0
+رنا	0
+مزرآوار	0
+اے	0
+دانم	0
+کِن	0
+اے	0
+پر	0
+غو	0
+کا	0
+تے	0
+نی	0
+حرف	0
+بہا	0
+کا	noun
+غذ	
+ٹی	0
+ردس	0
+ارے	0
+بہا	0
+ءِ	0
+خزانچی	noun
+ءِ	0
+ایتے	0
+وَخت	noun
+او	0
+موسم	noun
+اینو	noun
+انت	0
+نا	0
+دے	0
+اے	0
+اینو	0
+اولیکو	0
+جولائی	noun
+اے	0
+اینو	0
+ہفتہ	noun
+نا	0
+آرا	0
+دے	0
+اے	0
+اینو	0
+دوشنبے	noun
+،	0
+سے	0
+شنبے	0
+،	0
+چار شنبے	noun
+	0
+،	0
+پنچ شنبے	noun
+	0
+،	0
+جمعہ	noun
+،	0
+اول	0
+ہفتہ	noun
+،	0
+یک شنبے)	noun
+	0
+اے	0
+دا	0
+سا	0
+اَٹ	0
+بجہ	0
+اے	0
+ارا	0
+بجہ	0
+اے	0
+،	0
+اِرٹ	0
+بجینگا	0
+نے	0
+دو نیم	noun
+	0
+بجہ	0
+(پا	0
+ؤ	0
+بُرزا	Noun
+،	0
+پا	0
+کم	0
+مُسے	0
+،	0
+مُسے	0
+بجہ	0
+ٹی	0
+دہ	0
+مِلٹ	0
+،	0
+مُسے	0
+بجہ	0
+دہ	0
+مِلٹ)	0
+مسّونے	0
+نم	
+چہ	
+وخت	noun
+پیشن	noun
+کارے	0
+پنچ	0
+بجہ پنچ	Noun
+(	0
+ونیم	0
+)سحبنا	0
+(پیشم	noun
+نا)	0
+پا	0
+وَکم	0
+ہشت	noun
+بجہ	0
+شام	noun
+نیم روچ	noun
+	0
+ءَ	0
+نیم نن	noun
+	0
+ءَ	0
+جوان	noun
+خراب	noun
+باسُن	noun
+تہوی اے	noun
+نہ گیگا حالت	0
+کمک کبو!	0
+پو لوس ءِ توار کبو	0
+کنے دُزاک پُلار	0
+تا نہ اراڑیکے؟	0
+او بندغ ءِ تو رس	0
+او ارانگ ہنگٹٰی اَسک	0
+اوڑے	noun
+پیش تم	noun
+کنے پریشان کپّہ	0
+دا ہودے؟	0
+ہُرک!	noun
+بنک !	noun
+نما	noun
+کلم	noun
+میچ	noun
+نا	0
+خانہ	0
+ٹی	0
+اے	0
+،	0
+ای	noun
+گڑاس	0
+سافو	0
+سیاہی	noun
+چٹ	0
+اریریوہ	0
+داسا	0
+ہنک	0
+خواجہ	noun
+دو	noun
+ستیں	0
+ءِ	0
+توا	0
+ر	0
+کہ	0
+خواجہ	noun
+دوستیں	noun
+درو	0
+کہ	0
+کاغذ	noun
+اس	0
+سپرینٹنڈنٹ	noun
+پولیس	noun
+کِں	0
+رائی	0
+کریسٹ	0
+نے	0
+تُن	0
+اونا	0
+مون	0
+لک	0
+(نقل )ارے	noun
+خواجہ آرا کا غذ	noun
+خواجہ	noun
+آرا	0
+	0
+غذ کا	noun
+ہو	0
+کہ	0
+ای	0
+فو ج	noun
+	0
+ٹی	0
+جبری	0
+برتی	0
+نا	0
+بارہ	noun
+اٹ	0
+راہی	0
+کریسٹ	0
+نے	0
+یات	0
+بریک؟	noun
+جی	0
+ہوخواجہ	noun
+ای	0
+تخا	0
+نٹ	0
+تہ	0
+ای	0
+اَخدر	0
+کہ	0
+زوت	0
+مرے	0
+اتریوہ	0
+تہ	0
+او	0
+ٹاٹپ	noun
+کرعک	0
+کہ	0
+داسا	0
+بسّونے	0
+امر	0
+کاریم	noun
+کننگٹٰ	0
+اے؟	0
+گندہ	0
+اف	0
+مگہ	0
+اودے	0
+تینا	0
+کاریم	0
+نا	0
+تہٹٰ	0
+تہمیات	noun
+(تجربہ)	noun
+اف	0
+کنا	0
+خیال	noun
+اے	0
+کہ	0
+اوبلّا	0
+مُسے	0
+تو	0
+ٹیپ	noun
+ہیل	0
+کرینے	0
+خواجہ	noun
+داڑے	0
+گڑاس	0
+بَندغ	noun
+بسونو	0
+،	0
+او	0
+تیان	0
+درخواست	noun
+آتے	0
+نمے	0
+تِننگ	0
+خوارہ	0
+جوان	noun
+اوفتے	0
+پا	0
+او	0
+مچٹس	noun
+اّڈکیر،	0
+ای	0
+دم	0
+سیٹٰ	0
+اوفتے	0
+اس	0
+کنا	0
+ایڑ	noun
+اے	0
+صہیب	Name
+کنا	0
+ایلم 	noun
+اے
+	0
+	
+	
+کنا	0
+پن	0
+حسیب	noun
+اے
+	0
+استاد	noun
+ننے	0
+انگریزی	noun
+ھیل	0
+تس
+	0
+ای	0
+بازار	noun
+آ	0
+کاوا
+	0
+اما	noun
+کنا	0
+کتاب	noun
+اے	0
+ہفے
+	0
+ای	0
+خغدار	noun
+ٹی	0
+خوان	0
+اوا
+	0
+ای	0
+اردو	noun
+اے	0
+ترجما	0
+کے	0
+وا
+	0
+ننا	0
+ینورسٹی	noun
+نا	0
+خوانگ	0
+جوان	0
+اے
+	0
+ای	0
+دیر	noun
+کنے	0
+وا
+	0
+اے	0
+بسترا	noun
+عا	0
+خاچا
+	0
+دا	0
+بالشتا	noun
+بہلو	0
+سے
+	0
+چاند	0
+اینو	0
+کم	0
+روشن	0
+اے
+	0
+ای	0
+دروازہ	noun
+اے	0
+ملاٹ
+	0
+مالٹاک	noun
+سور	0
+او
+	0
+ابا	noun
+بش	0
+مس
+	0
+امب	noun
+آک	0
+دا	0
+وار	0
+کچا	0
+او
+	0
+ای	0
+کرکٹ	noun
+گوازی	0
+کے	0
+وا
+	0
+روس	noun
+بہاز	0
+بھلو	0
+ملک	noun
+اسے	0
+	
+ننا	0
+زبان	noun
+براہوی	noun
+اے
+	0
+پاکاستان	noun
+جدید	0
+مننگ	0
+اے
+	0
+کتاب	noun
+نا	0
+رنگ	0
+آسمانی	noun
+اے
+	0
+کنا	0
+کاپی	noun
+دیوال	noun
+عا	0
+ٹے
+	0
+شربت	noun
+ھنین	0
+اے
+	0
+میسی	noun
+مشور	0
+او	0
+فٹبالر	noun
+اسے
+	0
+انڈیا	noun
+تیزی	0
+اٹ	0
+ترکی	0
+کاننگ	0
+اے	0
+
+ماما	noun
+اے	0
+دا	0
+خوش	0
+اے
+	0
+پشی	noun
+مشک	noun
+اے	0
+نرا	0
+فے	0
+	
+	
+	
+عمرانخان	noun
+مست	0
+انا	0
+وزئیرےعاضم	noun
+آس
+	0
+باغ	noun
+انا	0
+پھل	noun
+آک	0
+بہاز	0
+او
+	0
+پاکاستان	noun
+ٹٰی	0
+چار	0
+موسم	noun
+او
+	0
+کنے	0
+ملیریا	noun
+ہلکونے
+	0
+نن	0
+اسلامیات	noun
+نا	0
+کلاس	noun
+اے	0
+ہلین	0
+عا
+	0
+نن	0
+کھٹان	نہئن
+ٹی	0
+رہنگ	0
+انا
+	0
+ای	0
+مسیت	noun
+ٹی	0
+وضو	noun
+کریٹ
+	0
+ایلم	noun
+خاچا	0
+نے	0
+کمرہ	noun
+ٹٰی
+	0
+سٹار	noun
+آک	0
+پوشکن	noun
+او
+	0
+کبوت	noun
+آک	0
+بال	0
+اٹی	0
+او
+	0
+پٹرول	noun
+مہنگا	0
+مسونے
+	0
+چکاک	noun
+توار	0
+خلکورا
+	0
+آنٹی	noun
+اے	0
+مار	noun
+اس	0
+مسونے
+	0
+کاکا	noun
+نا	0
+برام	noun
+اے
+	0
+گوگو	noun
+اسے	0
+زیبا	0
+او	0
+چک	noun
+اسے
+	0
+دا	0
+وار	0
+موسم	noun
+یخ	0
+اے
+	0
+بابرعاضم	noun
+کرکٹ	noun
+ٹی	0
+پہلا	0
+نمبر	0
+آ	0
+ٹے
+	0
+باخو	noun
+تینا	0
+باٹی	noun
+ھنین	0
+آے
+	0
+	
+خرما	noun
+نا	0
+دننانک	noun
+بھاز	0
+تیز	0
+او
+	0
+شوک	noun
+یکو	0
+بٹور	noun
+کمپک
+	0
+چنا	noun
+نا	0
+باٹی	noun
+دنان	noun
+مفق
+	0
+خن	noun
+خلیک	0
+دو	noum
+خلیپک
+	0
+صبر	0
+نا	0
+بدلہ	0
+ٹی	0
+جنت	noun
+ملک
+	0
+کنا	0
+پھڈ	noun
+خل	o
+کیک
+	0
+خرما	noun
+نا	0
+دنانک	noun
+بہاز	0
+تیز	0
+او
+	0
+کنا	0
+نتا	noun
+چٹ	noun
+اس	0
+بسونے
+	0
+تغ	noun
+موت	noun
+او	0
+گڑا	0
+سے	0
+مٹاھی	noun
+ھنین	0
+اے
+	0
+درو	noun
+اما	0
+پھدینی	noun
+اس
+	0
+ککو	noun
+نا	0
+توار	0
+اخس	0
+جوان	0
+اے
+	0
+ابا	noun
+ملاس	0
+اے	0
+دیر	noun
+خواک
+	0
+مش	noun
+عا	0
+خل	noun
+تما
+	0
+پال	noun
+مہنگا	0
+مسونے
+	0
+پیون	noun
+آ	0
+مرو	noun
+چوری	noun
+تس
+	0
+پیٹرک	
+اخس	0
+بہاز	0
+ٹکا	0
+نے
+	0
+کچک	noun
+دوشہ	noun
+اے	0
+کنگ
+	0
+گوگو	noun
+رخت	noun
+عا	0
+توسن	0
+آے
+	0
+سوف	noun
+آک	0
+اخس	0
+ودا	0
+نو
+	0
+باغ	noun
+اٹی	0
+بلبل	noun
+نا	0
+توار	0
+اس
+	0
+مچی	noun
+نا	0
+شکار	noun
+اخس	0
+مزا	0
+تس
+	0
+بطخ	noun
+جھل	noun
+اٹی	0
+تار	0
+کریکا
+	0
+کھور	0
+انگا	0
+کتری	noun
+خن	noun
+کرے
+	0
+چنا	noun
+بادشا	noun
+اے
+	0
+کوٹغ	noun
+بسے	0
+نے
+	0
+کراچی	noun
+نا	0
+دیر	noun
+سور	0
+اے
+	0
+تلف	noun
+عا	0
+پٹ	noun
+بفک
+	0
+	
+	
+ھچ	noun
+زنڈ	0
+اے
+	0
+بیدیر	noun
+عینو	0
+جوان	0
+اس
+	0
+عست	noun
+کنا	0
+ہنا	0
+گوازی	noun
+عا
+	0
+اما	noun
+وانگڑ	noun
+بسے
+	0
+بشا	0
+روفہ	noun
+خل
+	0
+ٹناٹر	noun
+کبئن	0
+مس
+	0
+پٹاٹہ	noun
+عاک	0
+بہاز	0
+او
+	0
+پردا	noun
+عاک	0
+یلا	0
+او
+	0
+آنٹی	noun
+دو	noun
+تے	0
+ھنام	
+کرے
+	0
+برام	noun
+پہگا	0
+اے
+	0
+ملا	noun
+گیس	noun
+اے	0
+بٹے
+	0
+	
+	
+جیب	noun
+کا	0
+خالی	0
+مس
+	0
+لیٹ	noun
+ڈم	0
+مس
+	0
+منگال	noun
+لگوک	0
+اے
+	0
+سٹوپ	noun
+گرم	0
+اے
+	0
+بالٹئن	noun
+ٹی	0
+دیر	noun
+اف
+	0
+خن	noun
+کنا	0
+خیسن	noun
+مسور
+	0
+غریب	noun
+پریشان	0
+اے
+	0
+امیر	noun
+خوش	0
+اے
+	0
+نت	noun
+کنا	0
+خل	noun
+اٹی	0
+لگا
+	0
+جہمر	noun
+عاک	0
+مون	noun
+او
+	0
+بئش	noun
+امبل	noun
+اے	0
+خلک
+	0
+کنے	0
+فٹو	noun
+لگا
+	
+
+برف	noun
+عاق	0
+دیر	noun
+مسور
+	0
+مچھ	noun
+ہلار	noun
+کرے
+	0
+ماما	noun
+نا	0
+پھڈ	noun
+ودا	0
+ںے
+	0
+کاٹم	noun
+کنا	0
+جوان	0
+مس
+	0
+بیدیر	noun
+ٹی	0
+سی	noun
+بہاز	0
+اے
+	0
+چوری	noun
+ملخ	noun
+اے	0
+کنگ
+	0
+بابو	noun
+لٹھ	noun
+اے	0
+تینا	0
+خسا
+	0
+بلہ	noun
+گوبی	noun
+بسے
+	0
+ننا	0
+بیٹک	noun
+بھلن	0
+اے
+	0
+کنا	0
+خف	noun
+تا	0
+پھشہ	noun
+کنگ
+	0
+	
+	
+کنا	0
+دوی	noun
+خرین	0
+مس
+	0
+جسم	noun
+کنا	0
+لٹزا	noun
+
+مارکو	noun
+نا	0
+دنان	noun
+تما
+	0
+ککڑ	noun
+کڑک	noun
+مس
+	0
+کپوت	noun
+بیدہ	noun
+تس
+	0
+دکان	noun
+یلہ	0
+مس
+	0
+دروازہ	noun
+اے	0
+زنگ	noun
+لگا
+	0
+بٹزی	noun
+شر	0
+مس
+	0
+کنا	0
+اینک	noun
+عاق	0
+پنار
+	0
+ایڑ	noun
+کمبل	noun
+عا	0
+تے	0
+شاغا
+	0
+کاٹم	noun
+کا	0
+دتر	noun
+مس
+	0
+بالٹین	noun
+پھر	0
+مس	0
+کھریا	noun
+تو	0
+تھفر	noun
+اسے
+	0
+بہانز	noun
+کھزم	noun
+اے	0
+کنگ
+	0
+مورنک	noun
+کہونڈ	noun
+اٹی	0
+ھنا
+	0
+ھنگور	noun
+عاق	0
+بسیر
+	0
+شیر	noun
+جنگل	noun
+نا	0
+بادشاہ	noun
+اے
+	0
+نت	noun
+عاق	0
+چٹار	0
+ننا
+	0
+خولم	noun
+خرون	noun
+مس
+	0
+سرکار	noun
+تو	0
+پیسہ	noun
+اف
+	0
+دیگ	noun
+باسن	0
+اے
+	0
+خاخور	noun
+عاق	0
+آسمان	noun
+ٹی	0
+اخص	0
+زیبا	0
+او	0
+
+پٹک	noun
+چنک	noun
+اے	0
+قدیر	Name of person
+ننا	0 
+سنگت	Noun
+اے	0
+جاوید	Name of person 
+1988	Date
+ٹی	0
+ودئ	0
+مس	0
+اسکلی	Name of thing
+ارا	0
+دع	0
+اینو	0
+خضدار	Name of place
+ٹی	0
+موسم	0
+بھاز	0
+جوانے	0
+پگہ	0
+نن	0
+سوراب	Name of place
+آ	0
+کانہ	0
+وڈھ	Location 
+ٹی	0
+جنگ	0
+اے	0
+قلات	Location 
+ٹی	0
+ٹریفک	Noun
+اف	0
+وزیر اعظم	Designation 
+انوارالحق	Name of person
+امریکہ	Location 
+آٹی	0
+اے	0
+واپڈا	 Noun
+کھنڈ	Location 
+ٹی	0
+میٹر	Noun
+چیک	0
+کرے	0
+اسداللہ	Name of person
+محکمہ	Noun
+صحت	Noun
+ٹی	0
+کیشئر	Designation 
+اے	0
+روس	Location 
+یوکرائن	Location 
+آ	0
+حملہ	0
+کرے	0
+چٹوک	Location 
+مولہ	Location 
+ٹی	0
+اے	0
+اختر	Name of person
+مینگل	noun
+بی این پی	noun
+نا	0
+سربراہ	Designation 
+اے	0
+نوراللہ	 Name of person
+نا 	0
+طبیعت	Noun
+جو ڑ	0
+اف	0
+شبیر 	Name of Person
+دبئی 	Location 
+ایئر پورٹ	Noun
+آ	0
+کاریم 	0
+کیک	0
+کوئٹہ 	Location 
+اینو	0
+یخ	0
+اے	0
+سندھ	Location 
+نا	0
+بندغ	Noun
+مہربان	0
+اے	0
+ننا	0
+دفتر	Noun
+ٹی 	0
+پنچ	0
+الماری	Noun
+او	0
+اینو 	0
+نن	0
+سبزی 	0
+کنون	0
+زیدی	Location 
+بھاز	0
+سرسبز	0
+اے	0
+ہندوستان	Location 
+پاکستان	Location 
+نا	0
+ہمسایہ	0
+اے	0
+ترکی	Location 
+اسلامی	0
+او	0
+ملک 	Noun
+اسے	0
+بورہ 	Noun
+پنچاب	Location 
+ٹی 	0
+جوڑ	0
+مریک	0
+سرور 	Name of person
+محنتی 	0
+او	0
+کنٹرولر 	Designation 
+اسے	0
+کرخ	Location 
+خضدار 	Name of Place
+آن	0
+100	Number
+کلومیٹر	0
+مراے	0
+بیسمہ 	Location 
+خضدار	Location 
+نا 	0
+روڈ 	Noun
+پختہ 	0
+اے	0
+سنان  بن سلمہ	Name of Person 
+خضدار	Location 
+ٹی 	0
+دفن 	0
+اے	0
+مارپ	Location 
+سوراب	Location 
+نا	0
+ٹحصیل 	0
+اے	0
+براھوئی 	0
+دراوڑی 	0
+زبان 	0
+اسے	0
+عبدالخالق فرہاد	Name of person 
+براھوئی 	Noun
+زبان 	Noun
+نا 	0
+گلوکار	Noun
+اسے	0
+قران پاک	Noun
+اسمانی 	Noun
+او 	0
+کتاب 	Noun
+اسے	0
+ٹویوٹا	Noun
+کار	Noun
+مضبوط	0
+او	0
+گاڈی 	Noun
+سے	0
+موبائل فون	Noun
+اسے	0
+سہولت	0
+اسے	0
+چائنا	Location 
+پاکستان	Location 
+نا 	0
+دوست	Noun
+ملک 	Location 
+اسے	0
+دبئی 	Location 
+اسے	0
+ترقی 	0
+یافتہ	0
+ملک 	Location 
+اسے	0
+امریکہ	Location 
+سپر پاور	Noun
+ملک 	Location 
+اسے	0  
+گوازی	Noun
+نا 	0
+سامان	Noun
+سیالکوٹ	Location 
+ٹی 	0
+جوڑ	0
+مریک	0
+سریش رائنا	Name of Person 
+ہندوستان	Location 
+نا 	0
+کھلاڑی 	Noun
+سے	0
+کراچی	Location 
+صوبہ سندھ	Location 
+نا 	0
+بلا 	0
+شہر	Location 
+اے	0
+اسلام آباد	Location 
+پاکستان	Locatin 
+نا	0
+دارالحکومت 	Noun 
+اے	0
+قائد اعظم محمد علی جناح	Name of person
+پاکستان 	Location 
+نا 	0
+بانی 	Noun
+اے	0
+آسٹریلیا	Location 
+غلہ	Noun
+نا 	0
+پیداور	Noun
+والا 	0
+بلا 	0
+ملک 	Location
+اے	0
+دبئی 	Location 
+ایئر پورٹ	Location 
+بھاز 	0
+بلو 	0
+سے	0
+زیارت	Location 
+بھاز	0
+ٹھنڈا	0
+او	0
+وطن 	0
+اسے	0
+افغانستان 	Location 
+بلوچستان 	Location 
+نا 	0
+ہمسایہ 	Noun 
+اے	0
+قلات	Location 
+تاریخی 	Noun
+او 	0
+شہر 	Location 
+اسے	0
+نصیر آحمد	Name of person 
+قوم 	Noun
+نا 	0
+باجوئی 	Noun
+سے	0
+دروازہ	Noun
+پاٹ 	Noun
+آن 	0
+جوڑ	0
+مریک	0
+شبیر احمد	Name of Person
+سعودی 	Location 
+آ 	0
+عمرہ 	Noun
+کننگ	0
+کن 	0
+انا	0
+نن	0
+دسمبر	Month 
+2024	date
+ٹی 	0
+کراچی 	Location 
+آ 	0
+انون	0
+عبداللہ	Name of person
+چائنا 	Location 
+آن	0
+برام 	0
+کرینے	0
+مقبول 	Name of person
+گوہر	Name of Person 
+مشہور	0
+او	0
+ٹک  ٹاک	Noun 
+اسے	0
+حبیبو	Name of person 
+براھوئی	Noun
+زبان	Noun 
+شاعر 	Noun 
+اسے	0
+احمد	Name of person 
+ونگو	Location 
+ٹی	0
+گاڈی	Noun
+اے	0
+خراب	0
+کرے	0
+احمد	Name of person 
+گاڈی 	Noun 
+اے	0
+نال	Location 
+آن	0
+سنگ مرمر	Noun 
+لوڈ 	0
+کرے	0
+احمد	Name of person 
+زیدی	Location 
+ٹی 	0
+چاء	0
+کنگ	0
+شہزادہ بن سلمان	Name of person 
+سعودی عرب	Location 
+نا 	0
+بادشاہ	0
+اے	0
+عبیداللہ 	Name of person 
+جاپان	Location 
+ٹوکیو	Location 
+آ	0
+انا	0
+خضدار 	Location 
+ٹی 	0
+سڑک	Noun 
+آک 	0
+جوڑ	0
+مننگ	0
+او	0
+پشین	Location 
+تا	0
+کراچی	Location 
+روڈ	Noun 
+ڈبل	0
+مننگ	0
+اے	0
+چابییک	Noun
+ٹنگوکو	0
+نن	0
+اوتھل 	Location 
+ٹی 	0
+مرون	0
+عبدالخالق 	Name of person
+منگچر 	Location 
+آن	0
+بس	0
+کراچی	Location 
+والا	0
+بس	0
+پیشتما	0
+اینو 	0
+حب	Location 
+ٹی 	0
+جمر	0
+تفے نے	0
+جھلاوان 	Location 
+ہسپتال	Noun
+خضدار	Location 
+اینو 	0
+بند	0
+اے	0
+اقبال	Name of person
+کوریا	Location 
+ٹی	0
+پی ایچ ڈی	0
+کیک	0
+ای 	0
+تینا 	0
+گاڈی	Noun
+اے 	0
+جاپان 	Location 
+آن 	0
+الکوٹ	0
+سگریٹ	Noun
+مضر 	0
+صھت	0
+اے	0
+وائس  چانسلر	Designation 
+بی یو ای ٹی	Noun
+خضدار	Location 
+رجسٹرار	Designation 
+بی یو ای ٹی 	Noun
+خضدار	Location 
+پرو وائس چانسلر	Designation 
+بی یو ای ٹی 	Noun 
+خضدار	Location 
+ڈپٹی کمشنر	Designation
+خضدار	Location 
+وزیر اعلیٰ	Designation 
+بلوچستان	Location 
+اینو 	0
+خضدار	Location 
+ٹی	0
+بھاز	0
+مج 	0
+ارے	0
+لاہور	Location 
+پنجاب	Location 
+نا 	0
+بلا 	0
+شار	Noun
+اے	0
+منہ 	0
+دے	0
+معلو	0
+مراکش	Location 
+ٹی 	0
+زلزلہ	Noun
+مس	0
+لیبیاء	Location 
+ٹی 	0
+سیلاب	0
+بس	0
+پاکستان 	Location 
+ٹی	0
+جنوری 2024	Date 
+ٹی	0
+بلا	0
+الیکشن 	0
+مرو	0
+صدام حسین	Name of person 
+عراق	Location 
+نا 	0
+بادشاہ	Designation 
+اس	0
+خلیج	Location 
+ملک 	Noun
+آک	0
+مالامال	0
+اریر	0
+عالم مسرور	Name of person 
+دالبندین 	Location 
+اجتماع	0
+آن 	0
+چلہ 	0
+کن 	0
+انا	0
+بی آر سی 	Noun 
+خضدار	Location 
+تعلیمی 	Noun 
+ادار ہ	Location 
+سے	0
+وحیدشاہ	Name of person 
+خضدار	Location 
+نا 	0
+اسی	0
+بہادر و	0
+ڈی سی	Designation 
+اس	0
+شبیر احمد	Name of person 
+نادرا	Noun 
+سوراب 	Location 
+نا 	0
+انچارج 	0
+اے	0
+ثناء بلوچ	Name of person 
+بی این پی	0
+خاران 	Location 
+نا 	0
+ضلعی 	0
+صدر	0
+اے	0
+بلاول بھٹو زرداری	Name of person 
+پی پی پی 	0
+نا 	0
+سربراہ	0
+اے	0
+سری لنکا	Location 
+بھاز	0
+سرسبز	0
+و	0
+ملک 	Noun
+اسے	0
+سعودی عرب	Location 
+ٹی	0
+ہرسال	0
+عمرہ و حج	0
+مریک	0
+جاپان	Location 
+ٹیکنالوجی	Noun 
+ٹی	0
+بھاز	0
+موناٹے	0
+پسنی	Location 
+ساحلی	0
+و 	0
+علاقہ 	0
+سے	0
+گوادر	Location 
+بلوچستان	Location 
+نا	0
+گرمائی 	0
+دارالحکومت 	Noun 
+اے	0
+قلات	Location 
+بلوچستان	Location 
+نا 	0
+تاریخی	0
+او	0
+علاقہ 	Noun 
+سے	0
+سندھ	Location 
+صوفیاء	Noun 
+تا	0
+وطن	0
+اے	0
+اینو	0
+خضدار	Location 
+ٹی	0
+موسم	0
+یخ	0
+اے	0
+سرفراز بگٹی	Name of person 
+پاکستان 	Location 
+نا	0
+وزیر داخلہ 	Designation 
+اے	0
+عبدالولی کاکڑ	Name of person 
+بلوجستان 	Location 
+نا	0
+گورنر 	Designation 
+اے	0
+نواز شریف	Name of person 
+پاکستان	Location 
+نا 	0
+مشہور	0
+او	0
+لیڈر 	Noun
+اسے	0
+علامہ اقبال	Name of person 
+پاکستان	Location 
+نا 	0
+شہر	0
+لاہور	Location 
+ٹی	0
+دفن	0
+اے	0
+قائداعظم	Name of person 
+پاکستان 	Location 
+نا 	0
+بانی 	0
+اے	0
+زوالفقار علی بھٹو	Name of person 
+پاکستان	Location 
+نا 	0
+مشہور 	0
+او	0
+لیڈر اس	0
+اس	0
+آصف علی زرداری	Name of person 
+پاکستان	Location 
+نا 	0
+سیاسی	0
+استاد	noun
+پاننگک	0
+عطاءاللہ مینگل	Name of person 
+بلوچستان	Location 
+نا 	0
+راھشون پاننگک	Designation 
+حسین اسیر	Name of person 
+بلوچستان 	Location 
+نا	0
+مشہور	0
+او	0
+گلوکار 	0
+اس	0
+ارے	0
+بلوچستان	Location 
+پاکستان	Location 
+کرخ	Location 
+کراچی	Location 
+حیدرآباد	Location 
+منگوپیر	Location 
+ملتان	Location 
+وڈھ	Location 
+بیلہ	Location 
+وندر	Location 
+اتھل	Location 
+گڈانی	Location 
+حب	Location 
+لیاری	Location 
+صدر	Location 
+باغبانہ	Location 
+نوغے	Location 
+سوراب	Location 
+قلات	Location 
+منگچر	Location 
+خالق آباد	Location 
+مستونگ	Location 
+کوئٹہ	Location 
+چمن	Location 
+پشن	Location 
+کچلاک	Location 
+ژوب	Location 
+ہرناہی	Location 
+کشمیر	Location 
+اسلام آباد	Location 
+راولپنڈی	Location 
+لاہور	Location 
+پنجگور	Location 
+تربت	Location 
+گوادر	Location 
+ماشکیل	Location 
+کٹھان	Location 
+کھنڈ	Location 
+سنی	Location 
+فیرروز آباد	Location 
+وزیرستان	Location 
+قلعہ عبداللہ	Location 
+آزاد کشمیر	Location 
+مظفرآباد	Location 
+میرپور	Location 
+کوٹلی	Location 
+راولاکوٹ	Location 
+باغ	Location 
+نیلم	Location 
+جہلم	Location 
+سدھنوتی	Location 
+پونچھ	Location 
+ہاتھیاں بالا	Location 
+پالندری	Location 
+لیپہ	Location 
+بلوچستان	Location 
+کوئٹہ	Location 
+تربت	Location 
+گوادر	Location 
+لسبیلہ	Location 
+خضدار	Location 
+چمن	Location 
+زیارت	Location 
+مستونگ	Location 
+پنجگور	Location 
+آواران	Location 
+بولان	Location 
+قلات	Location 
+واشک	Location 
+سوراب	Location 
+نال	Location 
+دشت	Location 
+ماشکیل	Location 
+ہرنائی	Location 
+موسیٰ خیل	Location 
+قلعہ عبداللہ	Location 
+قلعہ سیف اللہ	Location 
+ژوب	Location 
+بارکھان	Location 
+مسلم باغ	Location 
+نوکنڈی	Location 
+دالبندین	Location 
+گوٹھ گھوٹ	Location 
+ناصر آباد	Location 
+گڈانی	Location 
+پسنی	Location 
+اورماڑا	Location 
+جیوانی	Location 
+منگھوپیر	Location 
+ڈیرہ بگٹی	Location 
+سنجاوی	Location 
+کوہلو	Location 
+جھل مگسی	Location 
+ماروڑ	Location 
+نصیر آباد	Location 
+خیرپور	Location 
+خیبر پختونخوا	Location 
+پشاور	Location 
+مردان	Location 
+نوشہرہ	Location 
+چارسدہ	Location 
+کوہاٹ	Location 
+صوابی	Location 
+ڈیرہ اسماعیل خان	Location 
+بنوں	Location 
+ہری پور	Location 
+ایبٹ آباد	Location 
+مانسہرہ	Location 
+تورغر	Location 
+بٹگرام	Location 
+چترال	Location 
+سوات	Location 
+دیر	Location 
+کرم	Location 
+اورکزئی	Location 
+وزیرستان شمالی	Location 
+وزیرستان جنوبی	Location 
+لکی مروت	Location 
+ہنگو	Location 
+کوہاٹ	Location 
+پنجاب	Location 
+لاہور	Location 
+فیصل آباد	Location 
+راولپنڈی	Location 
+گوجرانوالہ	Location 
+ملتان	Location 
+سرگودھا	Location 
+سیالکوٹ	Location 
+بہاولپور	Location 
+جھنگ	Location 
+شیخوپورہ	Location 
+قصور	Location 
+حفیظ آباد	Location 
+گجرات	Location 
+ٹوبہ ٹیک سنگھ	Location 
+وہاڑی	Location 
+پاک پتن	Location 
+ننکانہ صاحب	Location 
+اوکاڑہ	Location 
+خانیوال	Location 
+رحیم یار خان	Location 
+مظفر گڑھ	Location 
+دیرہ غازی خان	Location 
+دہلی	Location 
+لکھنؤ	Location 
+کانپور	Location 
+آگرہ	Location 
+میرٹھ	Location 
+وارانسی	Location 
+علی گڑھ	Location 
+گوڑا	Location 
+سہارنپور	Location 
+غازی آباد	Location 
+مظفرنگر	Location 
+بریلی	Location 
+بہرائچ	Location 
+بجنور	Location 
+فیروز آباد	Location 
+رام پور	Location 
+مرادآباد	Location 
+اترپردیش کے دیگر شہر (200)	Location 
+بھارتیہ گجرات	Location 
+احمد آباد	Location 
+سورت	Location 
+بنگلور	Location 
+حیدرآباد	Location 
+بمبئی	Location 
+پونا	Location 
+چنئی	Location 
+کولکاتا	Location 
+گوا	Location 
+لکھنو	Location 
+آگرہ	Location 
+دہلی	Location 
+جے پور	Location 
+راجستھان کے دیگر شہر (100)	Location 
+مہاراشٹر	Location 
+ممبئی	Location 
+پونا	Location 
+ناسک	Location 
+احمد نگر	Location 
+اورنگ آباد	Location 
+ناگپور	Location 
+کولہاپور	Location 
+پونے کے دیگر شہر (50)	Location 
+کرناٹک	Location 
+بنگلور	Location 
+حیدرآباد	Location 
+چنئی	Location 
+پونے	Location 
+میسور	Location 
+گوا	Location 
+کولکاتا	Location 
+اڈیشہ کے دیگر شہر (50)	Location 
+تامل ناڈو	Location 
+چنئی	Location 
+کولکاتا	Location 
+بنگلور	Location 
+حیدرآباد	Location 
+گوا	Location 
+پونے	Location 
+ممبئی	Location 
+اڈیشہ کے دیگر شہر (50)	Location 
+مغربی بنگال	Location 
+کولکاتا	Location 
+ڈھاکہ	Location 
+چنئی	Location 
+بنگلور	Location 
+حیدرآباد	Location 
+گوا	Location 
+پونے	Location 
+ممبئی	Location 
+اڈیشہ کے دیگر شہر (50)	Location 
+ہریانہ	Location 
+دہلی	Location 
+امرتسر	Location 
+لدھیانہ	Location 
+جالندھر	Location 
+پٹیالہ	Location 
+روپڑ	Location 
+فیروز پور	Location 
+ہوشیار پور	Location 
+کرنال	Location 
+ہریانہ کے دیگر شہر (50)	Location 
+پنجاب	Location 
+دہلی	Location 
+امرتسر	Location 
+لدھیانہ	Location 
+جالندھر	Location 
+پٹیالہ	Location 
+روپڑ	Location 
+فیروز پور	Location 
+ہوشیار پور	Location 
+کرنال	Location 
+پنجاب کے دیگر شہر (50)	Location 
+راجستھان	Location 
+جے پور	Location 
+اودھے پور	Location 
+جھانسی	Location 
+رائے پور	Location 
+میرٹھ	Location 
+اتر پردیش کے دیگر شہر (50)	Location 
+متحدہ ہندوستانی ریاستیں	Location 
+دہلی	Location 
+آگرہ	Location 
+کانپور	Location 
+لکھنؤ	Location 
+میرٹھ	Location 
+علی گڑھ	Location 
+گوڑا	Location 
+سہارنپور	Location 
+غازی آباد	Location 
+مظفرنگر	Location 
+بریلی	Location 
+بہرائچ	Location 
+بجنور	Location 
+فیروز آباد	Location 
+رام پور	Location 
+مرادآباد	Location 
+اترپردیش کے دیگر شہر (200)	Location 
+بھارتیہ گجرات	Location 
+احمد آباد	Location 
+سورت	Location 
+بنگلور	Location 
+حیدرآباد	Location 
+بمبئی	Location 
+پونا	Location 
+چنئی	Location 
+کولکاتا	Location 
+گوا	Location 
+لکھنو	Location 
+آگرہ	Location 
+دہلی	Location 
+محمد علی جناح	Name of person 
+لیاقت علی خان	Name of person 
+ذوالفقار علی بھٹو	Name of person 
+بے نظیر بھٹو	Name of person 
+نواز شریف	Name of person 
+عمران خان	Name of person 
+آصف زرداری	Name of person 
+مولانا فضل الرحمن	Name of person 
+شیخ رشید احمد	Name of person 
+مریم نواز شریف	Name of person 
+بلاول بھٹو زرداری	Name of person 
+چوہدری شجاعت حسین	Name of person 
+عمران خان	Name of person 
+محمد یوسف	Name of person 
+وسیم اکرم	Name of person 
+جاوید میانداد	Name of person 
+عبدالقادر	Name of person 
+محمد حفیظ	Name of person 
+نگار جھنگ والا	Name of person 
+ماہرہ خان	Name of person 
+سجل علی	Name of person 
+فواد خان	Name of person 
+حسن علی	Name of person 
+ہمایوں سعید	Name of person 
+استاد رحیم بخش	Name of person 
+استاد غلام علی خان	Name of person 
+استاد بلھے شاہ	Name of person 
+استاد نصرت فتح علی خان	Name of person 
+استاد مہدی حسن	Name of person 
+استاد عاطف اسلم	Name of person 
+فیض احمد فیض	Name of person 
+احمد فراز	Name of person 
+محمد علی جناح	Name of person 
+لیاقت علی خان	Name of person 
+ذوالفقار علی بھٹو	Name of person 
+بے نظیر بھٹو	Name of person 
+نواز شریف	Name of person 
+عمران خان	Name of person 
+آصف زرداری	Name of person 
+مولانا فضل الرحمن	Name of person 
+شیخ رشید احمد	Name of person 
+مریم نواز شریف	Name of person 
+بلاول بھٹو زرداری	Name of person 
+حکومت پاکستان	Department
+وزارت داخلہ	Department
+وزارت خارجہ	Department
+وزارت دفاع	Department
+وزارت خزانہ	Department
+وزارت تجارت	Department
+وزارت صحت	Department
+وزارت تعلیم	Department
+وزارت زراعت	Department
+وزارت آبی وسائل	Department
+صوبائی حکومتیں	Department
+وزیر اعلیٰ کا دفتر	Department
+وزارت داخلہ	Department
+وزارت خارجہ	Department
+وزارت دفاع	Department
+وزارت خزانہ	Department
+وزارت تجارت	Department
+وزارت صحت	Department
+وزارت تعلیم	Department
+وزارت زراعت	Department
+وزارت آبی وسائل	Department
+بلدیاتی حکومتیں	Department
+میونسپل کارپوریشن	Department
+ٹاؤن کونسل	Department
+کمیونٹی کونسل	Department
+تحصیل کونسل	Department
+ضلع کونسل	Department
+کاروباری محکمہ جات	Department
+مینجمنت	Department
+سی ای او	Department
+سی ٹی او	Department
+سی ای او	Department
+چیئرمین	Department
+ڈائریکٹر	Department
+مشیر	Department
+پروڈکٹ منیجر	Department
+مارکیٹنگ منیجر	Department
+سیلز منیجر	Department
+فنانس منیجر	Department
+آڈٹ منیجر	Department
+انسپکٹر	Department
+ٹیکنیشن	Department
+ملازم	Department
+مالی	Department
+اکاؤنٹنٹ	Department
+فنانس منیجر	Department
+آڈٹ منیجر	Department
+ٹیکس مشیر	Department
+بینکر	Department
+سرمایہ کار	Department
+قرض دہندہ	Department
+کریڈٹ بورڈ	Department
+HR	Department
+HR مینیجر	Department
+Recrutier	Department
+ٹرینر	Department
+ڈویلپر	Department
+انسپکٹر	Department
+کلرک	Department
+مارکیٹنگ	Department
+مارکیٹنگ منیجر	Department
+سیلز منیجر	Department
+پروڈکٹ منیجر	Department
+ڈیزائنر	Department
+ٹیکنیکل سپرنٹنڈنٹ	Department
+پروڈکشن	Department
+پروڈکشن منیجر	Department
+فیکٹری مینجر	Department
+انجینئر	Department
+ٹیکنیشن	Department
+تحقیق و ترقی	Department
+ریسرچر	Department
+ڈویلپر	Department
+انجینئر	Department
+ٹیکنیشن	Department
+دیگر	Department
+ڈرائیور	Department
+گارڈ	Department
+کلرک	Department
+ٹیکنیکل سپرنٹنڈنٹ	Department
+مینیجر	Department
+ٹرینر	Department
+غیر منافع بخش تنظیموں کے محکمہ جات	Department
+سی ای او	Department
+ڈائریکٹر	Department
+مشیر	Department
+پروگرام منیجر	Department
+فنانس منیجر	Department
+آڈٹ منیجر	Department
+انسپکٹر	Department
+کلرک	noun
+ھےناک	0
+کپا	0
+براک	0
+خھف	Noun
+بامئس	Noun
+دےچھا	0
+دا بنداغ	Noun
+نے پا وۓ	0
+تےنا	0
+دعنا	0
+ھعسہنتا	0
+فےل	0
+زو زو	Noun
+براک	0
+ارانگ	0
+کاسۃ	0
+ھندانگ	0
+ماچھیت	0
+بر	0
+چھا	0
+کون	0
+بادام	Noun
+خن	Noun
+کنا	0
+سا	0
+او	0
+مزہ	Noun
+با	Noun
+نی	0
+دا 	
+کمپوٹر	Noun
+سے	0
+دا	0
+اسے	0
+کرسی	Noun
+سے	0
+دا 	0
+بیگ	Noun
+سے	0
+ماٰؤس	Noun
+اسے	0
+او	0
+کنا 	0
+الیم	Noun
+اے	0
+کہ	0
+ہنا	0
+اسلم	Noun
+دادے	0
+ماما	Noun
+کنا	0
+سنگت 	Noun
+اے	0
+علی	Noun
+باز 	0
+مور	Noun
+اے	0
+امجد	Noun
+کراچی 	Location 
+ٹی 	0
+اے	0
+ای 	0
+2023	number
+ٹی 	0
+قلات	Location 
+ٹی 	0
+مروٹ	0
+کنا	0
+لمہ	Noun
+ارادے	0
+ای	0
+دیر	Noun
+کونیوہ	0
+ای 	0
+بس 	Noun
+ٹی 	0
+کاوہ	0
+ای 	0
+چا	Noun
+کیوہ	0
+دا	0
+کنا	0
+ایڑ	Noun
+ایے	0
+کنا	0
+موبایل	Noun
+ارادے	0
+نصیر	Noun
+کنا	0
+ایلم 	0
+اے	0
+اسد 	Noun
+ہنوٹ	0
+اسلامآباد	Location 
+اہ	0
+اینو	0
+کنا	0
+برام	Noun
+اے	0
+ای	0
+کتاب	Noun
+خوانے	0
+وہ	0
+لمہ	Noun
+ایرغ	Noun
+بیسک	0
+ای	0
+موبائل	Noun
+ہرےوہ	0
+بلال	Noun
+کارم	0
+کیک	Noun
+سر	Noun
+کنۓ	0
+خوان	0
+فک	0
+بلال	Noun
+کنا	0
+سنگت	Noun
+اے	0
+علئ	Noun
+رومب	0
+کیک	Noun
+خالد	Noun
+مزدور	Noun
+اسے	0
+ای	0
+خاچےواہ	0
+نم	0
+ھمر	0
+ار	0
+اے	0
+دا	0
+اولاخ	0
+گیچین	0
+اوس	0
+اے	0
+اخس	0
+لغت	Noun
+موچ	Noun
+ایتیو	0
+نے	0
+شاہد	Noun
+اے	0
+کوچک	Noun
+اس	0
+کنگ	0
+او	0
+خاخر	Noun
+تون	0
+گوازی	Noun
+کیک	Noun
+شابانہ	Noun
+بہاز	0
+خش	0
+اے	0
+لیکن	0
+اودے	0
+خبر	0
+اف	0
+اود	0
+فیل	Noun
+اے	0
+ای	0
+اودے	0
+غرز	0
+کتوٹ	0
+والدا	0
+لائبا	Noun
+تینا	0
+خن	Noun
+تے	0
+بند	0
+کرے	0
+شوہیب	Noun
+جوانو	0
+چہونا	0
+سے	0
+ نواز	Noun
+کنا	0
+مونا	0
+کتاب	Noun
+اس	0
+تےخا	0
+محمود	Noun
+2002	number
+ٹی	0
+دا	0
+دہرتیا	0
+بس	0
+دسمبر	Noun
+نا	0
+اوالیکو	0
+ہفتہ	Noun
+بہاز	0
+یخ	Noun
+مریک	0
+یخ 	Noun
+ان	0
+چہونا	0
+نا	0
+بوز	Noun
+ترخانے	0
+اےنو	0
+ایمن	0
+پشی	Noun
+اس	0
+خلک	0
+کنے	0
+گلب	0
+نا	0
+پہول	0
+وڑک	0
+بشرا	Noun
+اے	0
+کتاب	Noun
+لکھنگ	0
+دوست	Noun
+اے	0
+ای	0
+بینگنوٹ	0
+او	0
+کنے	0
+پارے	0
+خوان	0
+گمہ	0
+تاتہ	0
+کنے	0
+پہٹ کرے	0
+
+
